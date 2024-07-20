@@ -6,7 +6,7 @@ Promptopia is an application for sharing useful prompts for AI models like ChatG
 
 ## Screenshot 
 
-<img src="/public/promptopia.png" alt="main page screenshot />
+<img src="/public/assets/images/promptopia.png" alt="main page screenshot />
 
 ## Technology stack
 
