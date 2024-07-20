@@ -4,6 +4,10 @@
 
 Promptopia is an application for sharing useful prompts for AI models like ChatGPT etc. Come here to get into workflow with AI assistants! 
 
+## Screenshot 
+
+<img src="/public/promptopia.png" alt="main page screenshot />
+
 ## Technology stack
 
 - Next.js
